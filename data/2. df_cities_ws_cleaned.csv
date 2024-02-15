@@ -1,0 +1,21 @@
+City,country_2c,latitude,longitude,is_capital,Country,Elevation (in m),Population
+Berlin,DE,52.5167,13.3833,True,Germany,34.0,3576873
+Hamburg,DE,53.55,10.0,False,Germany,23.0,1945532
+Munich,DE,48.1372,11.5755,False,Germany,520.0,1512491
+Cologne,DE,50.9422,6.9578,False,Germany,37.0,1073096
+Paris,FR,48.8566,2.3522,True,France,35.0,2102650
+Nice,FR,43.7034,7.2663,False,France,10.0,348085
+Rome,IT,41.8931,12.4828,True,Italy,21.0,2860009
+Milan,IT,45.4669,9.19,False, Italy,120.0,1371498
+Warsaw,PL,52.2167,21.0333,True, Poland,100.0,1863056
+Barcelona,ES,41.3825,2.1769,False,Spain,12.0,1620343
+Madrid,ES,40.4189,-3.6919,True,Spain,650.0,3223334
+Sevilla,ES,37.3828,-5.9731,False, Spain,7.0,684234
+London,GB,51.5072,-0.1275,True,England,11.0,8799800
+Birmingham,GB,52.48,-1.9025,False,England,140.0,1142494
+Manchester,GB,53.4794,-2.2453,False,England,38.0,549853
+Leeds,GB,53.7997,-1.5492,False,England,10.0,536280
+Newcastle,GB,55.0077,-1.6578,False,England,30.0,168873
+The Hague,NL,52.08,4.27,True,Netherlands,1.0,549163
+Amsterdam,NL,52.35,4.9166,True, Netherlands,-2.0,921402
+Rotterdam,NL,51.92,4.48,False,Netherlands,2.0,664311

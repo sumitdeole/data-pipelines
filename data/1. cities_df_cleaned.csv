@@ -1,0 +1,21 @@
+City,country_2c,latitude,longitude,is_capital
+Berlin,DE,52.5167,13.3833,True
+Hamburg,DE,53.55,10.0,False
+Munich,DE,48.1372,11.5755,False
+Cologne,DE,50.9422,6.9578,False
+Paris,FR,48.8566,2.3522,True
+Nice,FR,43.7034,7.2663,False
+Rome,IT,41.8931,12.4828,True
+Milan,IT,45.4669,9.19,False
+Warsaw,PL,52.2167,21.0333,True
+Barcelona,ES,41.3825,2.1769,False
+Madrid,ES,40.4189,-3.6919,True
+Sevilla,ES,37.3828,-5.9731,False
+London,GB,51.5072,-0.1275,True
+Birmingham,GB,52.48,-1.9025,False
+Manchester,GB,53.4794,-2.2453,False
+Leeds,GB,53.7997,-1.5492,False
+Newcastle,GB,55.0077,-1.6578,False
+The Hague,NL,52.08,4.27,True
+Amsterdam,NL,52.35,4.9166,True
+Rotterdam,NL,51.92,4.48,False
