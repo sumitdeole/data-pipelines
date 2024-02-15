@@ -65,4 +65,4 @@ Gans wants to know when the flights arrive in the city of interest to be able to
 #### Cloud Scheduler
 
 ### **Phase 3: Write a medium article**
-The deliverable of this project is a written description of what you have accomplished: **A Medium article**.
+The deliverable of this project is a written blog of all that has been executed in this project equivalent to a **Medium article**
