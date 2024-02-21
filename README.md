@@ -1,4 +1,4 @@
-# Gans Data Engineering Case Study: Escooter-sharing System
+# Data Engineering Case Study: Gans Escooter-sharing System
 
 ## Overview
 
@@ -50,6 +50,10 @@ Flight arrival times for the cities of interest are obtained using the AeroDataB
 
 After establishing the data pipeline locally, I now enhance its capabilities by migrating it to the cloud. I began by configuring a fresh MySQL instance on the Google Cloud Platform (GCP). To be able to access the SQL DB locally, I connected the MySQL Workbench to GCP SQL Instance. I then proceeded to build the schema and tables necessary for this project within MySQL Workbench. Afterward, I launched the data collection scripts, get_weather, and get_arrival_data functions noted above, using GCP Cloud Functions. Finally, I employed the GCP Cloud Scheduler to ensure that the data collection scripts execute at specified intervals. This cloud-based data pipeline will empower Gans with instantaneous insights into weather patterns and flight arrivals. The resultant cloud scheduled weather and flight tables are shown below:
 
+![weather_table](images/weather_table.png)
+
+![flight_table](images/flight_table.png)
+
 ### Phase 3: Write a Medium Article
 
-The final deliverable for this project is a comprehensive Medium article summarizing all executed tasks and outcomes [**Link here**](https://medium.com/@sumitdeole/seeing-through-the-data-engineering-project-edf9984448a8). 
+The final deliverable for this project is a comprehensive Medium.com article summarizing all executed tasks and outcomes [**Link here**](https://medium.com/@sumitdeole/seeing-through-the-data-engineering-project-edf9984448a8). 
